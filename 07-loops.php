@@ -15,7 +15,7 @@ while($count<10){
 //     $count++;
 // }while($count<10);  //0~9
 
-//for
+// for
 for($i=0;$i<10;$i++){
     echo $i."<br>";
 }
